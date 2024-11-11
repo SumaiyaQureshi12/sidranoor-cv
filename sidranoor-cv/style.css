@@ -1,0 +1,11 @@
+body{
+    width: 0;
+    padding: 0;
+    background-color: lightgreen;
+}
+.resume-conatiner{
+    background: #eec4c4;
+}
+.left-side{
+    background: #f5e8e8;
+}
